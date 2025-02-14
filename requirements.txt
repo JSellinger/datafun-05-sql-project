@@ -1,0 +1,11 @@
+pathlib
+loguru
+pandas
+requests
+openpyxl
+numpy
+matplotlib 
+seaborn
+ipywidgets
+setuptools
+wheel

@@ -29,3 +29,9 @@ Deactivating the Virtual Environment
 When you are done working on your project, you can deactivate the virtual environment by running:
 
 deactivate This will revert your terminal to the global Python environment
+
+## After Venv active
+
+Make sure to pip install -r requirements.txt 
+
+Upgrade pip install if prompted then you can run the first utils_logger script to track your changes.
