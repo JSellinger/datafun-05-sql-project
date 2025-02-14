@@ -15,6 +15,7 @@ Just put a copy in your root project folder and import in your scripts as shown 
 
 # Imports from Python Standard Library
 import pathlib
+import loguru
 
 # Imports from external packages
 from loguru import logger
