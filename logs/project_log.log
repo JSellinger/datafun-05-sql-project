@@ -5,3 +5,6 @@
 2025-02-14 12:02:47.095 | ERROR    | __main__:log_example:57 - This is an example error message.
 2025-02-14 12:02:47.095 | INFO     | __main__:main:69 - View the log output at logs\project_log.log
 2025-02-14 12:02:47.095 | INFO     | __main__:main:70 - EXITING utils_logger.py.
+2025-02-15 17:26:13.094 | INFO     | utils_logger:<module>:42 - Logging to file: logs\project_log.log
+2025-02-15 17:26:13.094 | INFO     | __main__:main:36 - Starting feature queries execution...
+2025-02-15 17:26:13.095 | ERROR    | __main__:main:46 - Database file not found at C:\Projects\datafun-05-sql-project\datafun-05-sql-project\data\db.sqlite. Ensure the database is created first.

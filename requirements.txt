@@ -2,6 +2,7 @@ pip
 pathlib
 loguru
 pandas
+pyarrow
 requests
 openpyxl
 numpy
