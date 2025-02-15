@@ -3,4 +3,4 @@
 -- Inner join between books and authors table
 SELECT books.book_id, books.title, books.genre, books.publication_year, authors.author_id, authors.name, authors.nationality
 FROM books
-INNER JOIN statistics ON books.book_id = authors.author_id;
+INNER JOIN title ON books.book_id = authors.author_id;
